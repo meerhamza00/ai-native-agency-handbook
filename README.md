@@ -1,7 +1,7 @@
 # The AI-Native Agency
 ## A Blueprint for Professional Evolution in the Age of Intelligence
 
-**Author:** [Your Name/Agency]
+**Author:** Meer Hamza
 **Version:** 1.0
 **Date:** May 2026
 
