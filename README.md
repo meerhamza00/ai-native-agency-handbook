@@ -2,7 +2,9 @@
 ## A Blueprint for Professional Evolution in the Age of Intelligence
 
 **Author:** Meer Hamza
+
 **Version:** 1.0
+
 **Date:** May 2026
 
 ---
